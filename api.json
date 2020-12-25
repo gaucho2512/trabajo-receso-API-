@@ -1,0 +1,66 @@
+{
+
+    "articulos" : [ 
+
+      { 
+        " id": "1",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "2",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "3",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "4",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "5",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "6",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "7",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       },
+       { 
+        " id": "8",
+        " nombre": "manzana",
+        " Caracteristica": "almacen",
+        " precio" : "41" ,
+        " stock": "20" 
+       }
+    ]
+
+}
+       
+       
+
